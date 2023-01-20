@@ -60,7 +60,7 @@ Search command history = `CRTL + R`
 |`man -k <search term>`|Search the manual for pages matching \<search term>.|
 
 ## 5.0 Command Input and Output
-![Command-IO](static/imgs/command-IO.png "Command Input and Output")  
+![Command-IO](/imgs/command-IO.png "Command Input and Output")  
 Standard Data Streams can be **redirected** and are identified using their stream number. Redirection of the standard output of one command to the standard input of another command is known as **piping**.  
 
 ### 5.1 Redirecting Standard Output:
