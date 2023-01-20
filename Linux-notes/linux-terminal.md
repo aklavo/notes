@@ -57,10 +57,10 @@ Search command history = `CRTL + R`
 | `echo` | Prints command line arugumen to standard output (SO).|
 | `cat` | Stick files together and write joined file to SO. Good for viewing the contents of.|
  `history` | Show commands previously entered.|
-|`man -k <search term>`|Search the manual for pages matching \<search term>.|S
+|`man -k <search term>`|Search the manual for pages matching \<search term>.|
 
 ## 5.0 Command Input and Output
-![Command-IO](/Linux-notes/command-IO.png "Command Input and Output")  
+![Command-IO](/static/command-IO.png "Command Input and Output")  
 Standard Data Streams can be **redirected** and are identified using their stream number. Redirection of the standard output of one command to the standard input of another command is known as **piping**.  
 
 ### 5.1 Redirecting Standard Output:
