@@ -1,11 +1,9 @@
 # Linux File System Notes
 ## 1.0 Linux File System
-The Linux File System follows a tree-like structure starting at a base (or root) directory, indicated by the slash (/).
-Locations on the file system are indicated using file paths.
-Paths that start at the base directory (/) are known as absolute paths.
-Paths that start from the current working directory of the shell, are known as relative paths.  
-**Absolute:** /home/andrew/Documents/file1.txt  
-**Relative:** Documents/file1.txt  
+The Linux File System follows a tree-like structure starting at a base (or root) directory, indicated by the slash (/). Locations on the file system are indicated using file paths. Paths that start at the base directory (/) are known as absolute paths. Paths that start from the current working directory of the shell, are known as relative paths.  
+
+**Absolute :** `/home/andrew/Documents/file1.txt`  
+**Relative :** `Documents/file1.txt`  
 
 ## 2.0 Navigating the File System
 

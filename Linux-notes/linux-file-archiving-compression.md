@@ -1,6 +1,6 @@
 # Linux File Archiving and Compression Notes
 ## Overall Process
-1. `Create a Tarball`  
+1. `Create a tarball`  
 First, creat a tar file pr "`tarball`". A tarball is a way of bundling together the files that you want to archive.
 2. `Compress the tarball` with a compression algorithm  
 Secondly, compress the tarball with a compression algorithm; leaving a compressed archive.
