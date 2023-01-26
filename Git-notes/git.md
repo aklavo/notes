@@ -38,3 +38,5 @@ git push <remote> <branch>
  `git diff` | Show unstaged changes between your index and working directory.|
 |`git config --global user.name <name>`|Define the author name to be used for all commits by the current user.|
 |`git reset <file>`|Remove <file> from the staging area, but leave the working directory unchanged. This unstages a file without overwriting any changes.|
+
+[More Documentation](https://www.atlassian.com/git/tutorials)
