@@ -55,7 +55,7 @@ We covered the 3 most common types of wildcard:
 | `M-` | This is the "meta" key on your keyboard. Depending on your keyboard layout this may be the ALT, ESC, CMD key.|
 
 
-<a href="https://www.nano-editor.org/docs.php)" target="_blank" rel="noopener noreferrer">Nano Documentation</a>
+<a href="https://www.nano-editor.org/docs.php" target="_blank" rel="noopener noreferrer">Nano Documentation</a>
 
 ## 8.0 The Locate Command
 The `locate` command searches a database on your file system for the files that match the text (or regular expression) that you provide it as a command line argument.  
