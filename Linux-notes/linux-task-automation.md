@@ -31,7 +31,7 @@ Edit your crontab:
 crontab -e
 ```
 ### Scheduling syntax
-<a href="crontab.guru" target="_blank" rel="noopener noreferrer">crontab.guru</a>
+<a href="https://crontab.guru" target="_blank" rel="noopener noreferrer">crontab.guru</a>
 
 |Time interval| Options|
 |------------|---------|

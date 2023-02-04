@@ -39,4 +39,4 @@ git push <remote> <branch>
 |`git config --global user.name <name>`|Define the author name to be used for all commits by the current user.|
 |`git reset <file>`|Remove <file> from the staging area, but leave the working directory unchanged. This unstages a file without overwriting any changes.|
 
-[More Documentation](https://www.atlassian.com/git/tutorials)
+<a href="https://www.atlassian.com/git/tutorials" target="_blank" rel="noopener noreferrer">More Documentation</a>
