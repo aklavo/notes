@@ -47,9 +47,10 @@ Break out of command/process = `CRTL + C`
 Clear terminal = `CTRL + L`  
 Move cursor to beginning = ` CRTL + A`  
 Move cursor to end = ` CRTL + E`  
-Clear line= ` CRTL + U`  
+Clear line = ` CRTL + U`  
 Clear last word = `CRTL + W`  
 Search command history = `CRTL + R`
+Zoom in = `CRTL + SHIFT + +`
 
 ## 4.0 Basic Commands
 | Command | Description |
