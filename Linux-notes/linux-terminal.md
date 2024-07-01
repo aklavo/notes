@@ -63,7 +63,8 @@ Zoom in = `CRTL + SHIFT + +`
 ## 5.0 Command Input and Output
 Standard Data Streams can be **redirected** and are identified using their stream number. Redirection of the standard output of one command to the standard input of another command is known as **piping**.  
 
-<img src="https://andrews-s3bucket.s3.us-west-2.amazonaws.com/command-IO.png" title="Command Input and Output" alt="Command-IO">
+<img src="https://andrews-s3bucket.s3.us-west-2.amazonaws.com/command-IO.png" title="Command Input and Output" alt="Command-IO">  
+
 ### 5.1 Redirecting Standard Output:
 Standard output is stream number 1. 
 ```
